@@ -5,13 +5,13 @@ This project executed an end-to-end community outreach strategy to identify demo
 
 ---
 
-## 📸 Dashboards & Survey Visualizations
+## 📸 Sample Dashboards & Survey Visualizations
 
 ### 1. Macro-Demographic Power BI Dashboard
 ![10-Year Demographic Shift](<images/10-Year Demographic & Church Shift (2010–2020).jpg>).
 
 ### 2. Community Survey Findings & User Insights
-![Survey Barriers & Response Data](images/survey-results.png)
+![Survey Barriers](images/Barriers.jpg)
 
 ---
 
