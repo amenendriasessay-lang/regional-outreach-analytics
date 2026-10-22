@@ -5,6 +5,13 @@ This project executed an end-to-end community outreach strategy to identify demo
 
 ---
 
+## 💾 Interactive Power BI Dashboard File
+
+> **Want to explore the live model and DAX measures?**  
+> You can download the complete Power BI desktop file directly from this repository:  
+> 📥 **[Download Power BI Dashboard (.pbix)](./Regional_Demographic_Analytics.pbix)** *(Requires Power BI Desktop)*
+
+---
 ## 📸 Sample Dashboards & Survey Visualizations
 
 ### 1. Macro-Demographic Power BI Dashboard
